@@ -1,6 +1,6 @@
 # State Management
 
-State management in web applications has become a popular topic. Since single page applications (SPAs) are only delivered once from a web server yet stay interactive on the client they have to establish state management on the client. 
+State managnement in web applications has become a popular topic. Since single page applications (SPAs) are only delivered once from a web server yet stay interactive on the client they have to establish state management on the client. 
 
 They have to keep the state consistent in the frontend application without making any more requests to the backend application. They have to give the user an effortless and pleasant experience when using the application.
 
